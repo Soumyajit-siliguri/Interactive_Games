@@ -9,7 +9,7 @@
 
 # input- number of dices, 'play'
 # ouput- numbers displayed , asking (play again? OR exit?)
-
+### shows error of non-termination if number of die are asked, after the value is given beyond range
 
 
 
