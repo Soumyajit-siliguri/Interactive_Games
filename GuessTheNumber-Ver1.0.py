@@ -7,6 +7,8 @@
 # input- number of dices, 'play'
 # ouput- numbers displayed , asking (play again? OR exit?)
 
+###doesn't ask the user if he would want to play more
+
 import random  #to make the probability game
 
 print("""Hi! This a model for GUESS THE NUMBER| Version 1.0 .
